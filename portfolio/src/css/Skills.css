@@ -1,0 +1,19 @@
+.Home-skillsSection {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  min-height: 100vh;
+  background: rgb(223,233,243);
+background: linear-gradient(0deg, rgba(223,233,243,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+.Home-skillsTitle {
+  position: relative;
+  margin-top: 15vh;
+  font-size: 50px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-family: 'Playfair Display', serif;
+  color: #000;
+}

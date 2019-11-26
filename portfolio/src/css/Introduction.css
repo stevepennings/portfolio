@@ -1,0 +1,29 @@
+.Home-introductionSection {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: calc(10px + 2vmin);
+    min-height: 100vh;
+}
+
+.Home-introductionTitle {
+  position: relative;
+  margin-top: 12vh;
+  font-size: calc(64px + 2vmin);
+  font-weight: 1000;
+  font-family: 'Playfair Display', serif;
+  color: #F3F4FF;
+}
+
+.Home-introductionDescription{
+  position: relative;
+  margin-top: 3vh;
+  font-size: calc(2px + 2vmin);
+  font-family: 'Open Sans', sans-serif;
+  color: #F3F4FF;
+}
+
+.Home-rocketBackground {
+  position: absolute;
+  width: 100%;
+}
